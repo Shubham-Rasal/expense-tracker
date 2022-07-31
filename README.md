@@ -1,6 +1,7 @@
 # Expense Tracker (React)
 
 This is a React version of the  Expense Tracker. 
+This repo has been forked from TraversyMedia.
 
 
 ## Usage
