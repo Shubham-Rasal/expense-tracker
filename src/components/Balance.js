@@ -15,6 +15,7 @@ function moneyFormatter(num) {
     '.' +
     p[1]
   );
+    }
 
 
 export const Balance = () => {
